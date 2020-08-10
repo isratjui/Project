@@ -1,2 +1,2 @@
 # Project
-Making A wensite for a restaurant
+Making A website for a restaurant
