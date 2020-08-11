@@ -124,6 +124,7 @@ h2:after {
     color: #e67e22;
     font-size: 120%;
     margin-right: 10px;
+	
     
     /*secrets to align text and icons*/
     line-height: 120%;
@@ -358,7 +359,7 @@ header {
 
 
 /* ----------------------------------------------- */
-/* HOW IT WORKS SECTION */
+/* order */
 /* ----------------------------------------------- */
 
 .section-steps {
@@ -382,7 +383,8 @@ header {
 }
 
 .app-screen {
-    width: 40%;
+    width: 60%;
+	
 }
 
 .works-step {
@@ -420,13 +422,14 @@ header {
 
 
 /* ----------------------------------------------- */
-/* CITIES */
+/* loaction */
 /* ----------------------------------------------- */
 
 .box img {
     width: 100%;
-    height: auto;
+    height: 60%;
     margin-bottom: 15px;
+	vertical-align: middle;
 }
 
 .city-feature {
@@ -439,8 +442,8 @@ header {
 /* ----------------------------------------------- */
 
 .section-testimonials {
-    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/back-customers.jpg);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/back-customers.jpg);
+    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/images.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/images.jpg);
     background-size: cover;
     color: #fff;
     background-attachment: fixed;
